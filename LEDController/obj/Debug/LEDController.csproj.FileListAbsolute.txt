@@ -1,0 +1,9 @@
+C:\Users\Vincent Kyne\source\repos\LEDController\LEDController\bin\Debug\LEDController.dll
+C:\Users\Vincent Kyne\source\repos\LEDController\LEDController\bin\Debug\LEDController.pdb
+C:\Users\Vincent Kyne\source\repos\LEDController\LEDController\obj\Debug\LEDController.csproj.AssemblyReference.cache
+C:\Users\Vincent Kyne\source\repos\LEDController\LEDController\obj\Debug\LEDController.csproj.CoreCompileInputs.cache
+C:\Users\Vincent Kyne\source\repos\LEDController\LEDController\obj\Debug\LEDController.dll
+C:\Users\Vincent Kyne\source\repos\LEDController\LEDController\obj\Debug\LEDController.pdb
+C:\Users\Vincent Kyne\source\repos\LEDController\LEDController\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vincent Kyne\source\repos\LEDController\LEDController\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vincent Kyne\source\repos\LEDController\LEDController\obj\Debug\LEDController.csproj.CopyComplete

@@ -1,0 +1,5 @@
+<ArduinoConfig>
+  <BaudRate>9600</BaudRate>
+  <COMPort>COM8</COMPort>
+  <LEDStripLenght>60</LEDStripLenght>
+</ArduinoConfig>
